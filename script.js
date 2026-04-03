@@ -1,6 +1,6 @@
 
 //Google Sheet connect code
-var scriptURL = "https://script.google.com/macros/s/AKfycbw-A7CDxYVj_kV2lC1huz6CLqHX7iVniTG78KW1XXeqrDv8GAEDsSxtX0ImkFIlUg2v6A/exec";
+var scriptURL = "https://script.google.com/macros/s/AKfycbw7ZrqSaIJA_nb4kPfRMFQOga0ntwv7al5ZKFixYo3h7jQMXKEf_FFLsvV7wtFZBWWnqQ/exec";
 var form = document.forms['google-sheet'];
 form.addEventListener('submit', e => {
   e.preventDefault()
